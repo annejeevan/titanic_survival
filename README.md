@@ -1,1 +1,1 @@
-# Explored manual rules for classifying whether the passengers survived or not.
+Explored manual rules based on different variables for classifying whether the passengers survived or not.
